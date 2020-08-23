@@ -1,0 +1,13 @@
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.exe
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.deps.json
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.runtimeconfig.json
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.runtimeconfig.dev.json
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.dll
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\bin\Debug\netcoreapp3.1\MonkeTrainers.pdb
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.csprojAssemblyReference.cache
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.AssemblyInfoInputs.cache
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.AssemblyInfo.cs
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.dll
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.pdb
+C:\Users\lauri\source\repos\MonkeTrainers\MonkeTrainers\obj\Debug\netcoreapp3.1\MonkeTrainers.genruntimeconfig.cache

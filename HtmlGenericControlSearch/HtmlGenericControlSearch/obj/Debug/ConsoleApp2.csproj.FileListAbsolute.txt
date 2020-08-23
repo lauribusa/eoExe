@@ -1,0 +1,10 @@
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.Common.dll
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.Common.xml
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\lauri\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
